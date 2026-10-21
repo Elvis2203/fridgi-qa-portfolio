@@ -1,5 +1,7 @@
 # Fridgi – QA portfolio project
 
+[![QA checks](https://github.com/Elvis2203/fridgi-qa-portfolio/actions/workflows/qa.yml/badge.svg)](https://github.com/Elvis2203/fridgi-qa-portfolio/actions/workflows/qa.yml)
+
 Fridgi is a small pantry and recipe web app. You save the ingredients you have, choose what you must use or want to avoid, and get a recipe that shows what you already own and what is missing.
 
 I used it as a practice project for manual QA: writing and running test cases, checking the API with Postman, comparing the UI with the database using SQL, and reporting a bug.
