@@ -1,0 +1,12 @@
+{
+  "name": "fridgi-api-checks",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Pinned runner for the Fridgi Postman collection",
+  "scripts": {
+    "test": "newman run Fridgi.postman_collection.json -e Local.postman_environment.json"
+  },
+  "devDependencies": {
+    "newman": "6.2.3"
+  }
+}
